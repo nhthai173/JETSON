@@ -1,2 +1,3 @@
 build/*
 JETSON.egg-info/*
+.DS_Store
